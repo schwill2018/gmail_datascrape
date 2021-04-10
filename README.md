@@ -5,5 +5,6 @@ The first push of this repository aims to provide instruction to anyone attempti
 
 If anyone is wondering how I got into GMail API, Norman Benbrahim has a good tutorial on accessing their API (heads up, it is a bit ambiguous but navigable) 
       Youtube: https://youtu.be/vgk7Yio-GQw
+      
       Github Repo: https://github.com/NormanBenbrahim/get_emails
       
